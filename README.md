@@ -1,2 +1,2 @@
-# Software_Development-3
+# Online voting system project
 Online voting system project
